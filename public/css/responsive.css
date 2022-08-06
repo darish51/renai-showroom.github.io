@@ -1,0 +1,59 @@
+@media all and (max-width: 1000px) {
+  .car {
+    width: 25%;
+    margin-bottom: 50px;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  
+  .heading h2 {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .car {
+    width: 100%;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  .btn {
+    width: 250px;
+    margin-bottom: 10px;
+  }
+  
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  .top-wrapper {
+    text-align: center;
+    
+  }
+
+  .header-right {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 45px;
+    line-height: 57px;
+    padding: 0px 0px 0px 0px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
